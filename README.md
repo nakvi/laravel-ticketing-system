@@ -40,7 +40,7 @@ Perfect for support teams, SaaS products, or internal ticketing.
 ## 📸 Screenshots
 
 ### Login
-![Login](https://i.imgur.com/0vF8K9j.png)
+![Login](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/login.png)
 
 ### Registration
 ![Registration](https://i.imgur.com/5rT3pL2.png)
