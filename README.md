@@ -43,31 +43,29 @@ Perfect for support teams, SaaS products, or internal ticketing.
 ![Login](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/login.png)
 
 ### Registration
-![Registration](https://i.imgur.com/5rT3pL2.png)
+![Registration](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/signup.png)
 
 ### Customer Dashboard
-![Customer Dashboard](https://i.imgur.com/8mN6vQ1.png)
+![Customer Dashboard](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/user-dashboard.png)
 
 ### Create Ticket
-![Create Ticket](https://i.imgur.com/kL9pM5x.png)
+![Create Ticket](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/user-createtickets.png)
 
 ### Ticket Details (Customer)
-![Ticket Details](https://i.imgur.com/3jH7rT9.png)
+![Ticket Details](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/user-detials.png)
 
 ### Agent Dashboard
-![Agent Dashboard](https://i.imgur.com/9pQ2wE4.png)
+![Agent Dashboard](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/agent-dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](https://i.imgur.com/eR7tY5u.png)
+![Admin Dashboard](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/admin-dashboard.png)
 
 ### Admin - All Tickets
-![All Tickets](https://i.imgur.com/zX9pL2m.png)
+![All Tickets](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/admin-alltickets.png)
 
 ### Admin - User Management
-![User Management](https://i.imgur.com/nM5kL9p.png)
+![User Management](https://github.com/nakvi/laravel-ticketing-system/blob/main/public/ScreenShot/admin-user.png)
 
-### Mobile View (PWA)
-![Mobile](https://i.imgur.com/mK2pQ8x.png)
 
 ---
 
